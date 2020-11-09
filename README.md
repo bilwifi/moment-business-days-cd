@@ -186,5 +186,5 @@ Calculez le nombre de jours ouvrables entre les dates.
 
 ```javascript
 var diff = moment('01-01-2020', 'MM-DD-YYYY').businessDiff(moment('02-01-2020','MM-DD-YYYY'));
-// diff = 4
+// diff = 20
 ```

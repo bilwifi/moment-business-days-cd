@@ -2,7 +2,7 @@
 
 
 if (typeof require === 'function') {
-  const moment = require('moment-business-days');
+  var moment = require('moment-business-days');
 }
 
 moment.locale('fr');

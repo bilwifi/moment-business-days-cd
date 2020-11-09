@@ -1,6 +1,6 @@
 'use strict';
 var moment = require('./index');
-
+console.log(moment);
 moment.addHoliday('08/09'); // 'custom holiday'
 
 let dateString;
