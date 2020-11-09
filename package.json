@@ -1,0 +1,37 @@
+{
+  "name": "moment-business-days-cd",
+  "version": "1.0.0",
+  "description": "Plugin MomentJS pour utiliser les jours ouvrables avec les jours fériés  congolais",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilwifi/moment-business-days-cd.git"
+  },
+  "author": "Peniel DIALUNDAMA | BilWifi <dialundamapeniel@gmail.com>",
+  "keywords": [
+    "moment",
+    "momentjs",
+    "business",
+    "days",
+    "plugin",
+    "congo",
+    "rdc",
+    "cd",
+    "Kinshasa",
+    "jour",
+    "férié",
+    "holidays",
+    "Peniel"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilwifi/moment-business-days-cd/issues"
+  },
+  "homepage": "https://github.com/bilwifi/moment-business-days-cd#readme",
+  "dependencies": {
+    "moment-business-days": "^1.2.0"
+  }
+}
